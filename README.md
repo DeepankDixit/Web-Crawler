@@ -1,6 +1,6 @@
 # Web Crawler (Scrapy)
 
-These crawlers are developed as part of my project Cloud Based Search Engine. These are developed to crawl different sections of StackExchange wesite. Crawlers which are developed in this project crawls Artificial Intelligence, askUbuntu, and Astronomy section of the http://www.stackxchange.com
+These crawlers are developed as part of my project Cloud Based Search Engine. These are developed to crawl different sections of StackExchange wesite. Crawlers which are developed in this project crawls Artificial Intelligence, askUbuntu, and Astronomy section of the http://stackexchange.com/
 
 # Pre-requisites
 
