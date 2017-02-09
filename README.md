@@ -12,3 +12,6 @@ These crawlers are developed as part of my project Cloud Based Search Engine. Th
 3. Install virtualenv- https://doc.scrapy.org/en/latest/intro/install.html#intro-using-virtualenv <br>
 4. SqlAlchemy- Refer to the link, http://docs.sqlalchemy.org/en/latest/intro.html#installation-guide <br>
 5. PostgreSql- Refer to the link, https://help.ubuntu.com/community/PostgreSQL https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04 <br>
+
+# Report(Cloud Based Search Engine(REPORT).pdf)
+The repository also contains the final report of this project. In case you should want to have a better understanding of my work, read the report.
